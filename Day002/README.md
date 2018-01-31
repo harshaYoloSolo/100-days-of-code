@@ -1,4 +1,5 @@
-# Minimum sum of multiplications of n numbers
+# Marbles
 ---
+Problem Code: __MARBLES__  
 
-https://www.geeksforgeeks.org/minimum-sum-of-multiplications-of-n-numbers/
+https://www.codechef.com/problems/MARBLES
